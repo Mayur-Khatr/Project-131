@@ -1,0 +1,11 @@
+body{
+    background-color: cover;
+    background-position: center;
+    font-size: 17px;
+}
+
+heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0%;
+}
